@@ -1,1 +1,1 @@
-# Restaurant-tips-Prediction-
+# Restaurant Tips Predictor

@@ -1,6 +1,6 @@
 import streamlit as st  #imports streamlit library helps to create web applications for data science project
 import pandas as pd  #pnadas helps for data manipulation and analysis for handling data in dataframe format 
-# import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 import seaborn as sns #seaborn is a statistical data visualization
 from sklearn.preprocessing import LabelEncoder # labelencoder converts categorical lables into numerical values
 from sklearn.model_selection import train_test_split  # this splits the dataset into training and testing
